@@ -1,0 +1,5 @@
+// Rename to .env and add your authSecret 
+
+module.exports = {
+    authSecret: ''
+}

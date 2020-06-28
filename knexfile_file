@@ -1,0 +1,19 @@
+// Rename to knexfile.js and add your own user and password
+
+module.exports = {
+
+    client: 'postgresql',
+    connection: {
+      database: 'tasksbackend',
+      user:     '',
+      password: ''
+    },
+    pool: {
+      min: 2,
+      max: 10
+    },
+    migrations: {
+      tableName: 'knex_migrations'
+    }
+
+};
