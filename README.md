@@ -1,5 +1,5 @@
 # Tasks-Backend
 
-Este é o repositório do backend da aplicação tasks.
+This is the backend of the application Tasks.
 
-Ambos do curso de react-native da cod3r.
+Both from the react-native course from cod3r.
